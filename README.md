@@ -1,20 +1,34 @@
-How to Install
+# syntaxcloner
 
-1 Open the project folder
-2 Double-click the install.bat file
-3 Wait for the installation to finish and then close the window
+Click [Here](https://github.com/0xvoided/SyntaxCloner/archive/refs/heads/main.zip) to download
 
-How to Use
+## More Than a Data Warehouse
 
-1 Double-click the syntaxcloner.bat file
-2 Select option 2 to add a new account
-3 Type any name for the account and then paste your token
-4 A list of all your chats and friends will appear
-5 To clone everything type 0
-6 To clone a specific person type the number shown next to their name
+SyntaxCloner offers a safeguard for your messages, operating solely on the client side for enhanced security. Experience peace of mind as SyntaxCloner empowers you to store your valuable conversations right at your fingertips.
 
-https://github.com/0xvoided/SyntaxCloner.git
+* 🔒 Secure Storage: Safeguard your data, ensuring it remains confidential.
+* 💻 Client-Side Operation: Operates exclusively on your machine for full control.
+* 💾 Backup: Enjoy peace of mind with backups to prevent data loss.
+* 📁 Organized Structure: Messages are saved in a clean logs folder.
+* ⚡ Lightning Fast: Experience blazing-fast performance for cloning.
 
-Note
+## Built With
 
-All cloned chats will be saved inside a folder named logs as text files named after each user
+* js
+* node
+
+## Getting Started
+
+just download the SyntaxCloner and run install.bat first.
+
+## Setup
+
+1. Download SyntaxCloner From Link Below:
+https://github.com/0xvoided/SyntaxCloner/archive/refs/heads/main.zip
+
+
+2. Run **install.bat** to install dependencies:
+install.bat
+
+
+3. RUN **syntaxcloner.bat**:
