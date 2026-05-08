@@ -13,6 +13,8 @@ How to Use
 5 To clone everything type 0
 6 To clone a specific person type the number shown next to their name
 
+https://github.com/0xvoided/SyntaxCloner.git
+
 Note
 
 All cloned chats will be saved inside a folder named logs as text files named after each user
