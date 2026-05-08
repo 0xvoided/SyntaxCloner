@@ -1,6 +1,5 @@
 @echo off
 title syntaxcloner - Created by syntax error
-:: Navigate to the script's directory automatically
 cd /d "%~dp0"
 
 :check_node
